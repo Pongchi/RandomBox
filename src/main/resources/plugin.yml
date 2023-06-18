@@ -1,0 +1,11 @@
+name: RandomBox
+version: '${version}'
+main: org.pongchi.randombox.RandomBox
+author : Pongchi
+description : 랜덤박스 시스템
+commands :
+  랜덤박스:
+    description: 랜덤박스 시스템
+    usage: /랜덤박스
+    permission: randombox
+    permission-message: You do not have permission to use this command.
